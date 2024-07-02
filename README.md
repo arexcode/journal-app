@@ -1,4 +1,4 @@
 # Journal App
 
 ## Link
-journal-foryou-app.netlify.app
+https://journal-foryou-app.netlify.app/auth/login
